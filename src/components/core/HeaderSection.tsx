@@ -78,7 +78,7 @@ const HeaderSection = () => {
             className="flex-[1] w-full flex-start"
           >
             <h1 className="text-xl lg:text-2xl text-white font-normal">
-              Genuine <span className="text-gradient">Graphics</span>
+              Genuine <span className="text-gradient">Graphic</span>
             </h1>
           </motion.div>
 
